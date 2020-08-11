@@ -19,27 +19,14 @@
 ]]></content>
   </entry>
   <entry>
-    <title>test post_edit</title>
-    <url>/2020/08/11/test-post-edit/</url>
-    <content><![CDATA[<h1 id="This-is-just-for-testing-per-post-edit-keyword-…"><a href="#This-is-just-for-testing-per-post-edit-keyword-…" class="headerlink" title="This is just for testing per post_edit keyword …"></a>This is just for testing per post_edit keyword …</h1>]]></content>
-  </entry>
-  <entry>
     <title>test</title>
-    <url>/2020/08/10/test/</url>
-    <content><![CDATA[<h1 id="I-have-mamually-updated-the-publish-date-…"><a href="#I-have-mamually-updated-the-publish-date-…" class="headerlink" title="I have mamually updated the publish date …"></a>I have mamually updated the publish date …</h1><h1 id="testing-…"><a href="#testing-…" class="headerlink" title="testing …"></a>testing …</h1>]]></content>
+    <url>/2020/08/11/test/</url>
+    <content><![CDATA[]]></content>
       <categories>
         <category>testing</category>
       </categories>
       <tags>
         <tag>testing</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test post_edit2</title>
-    <url>/2020/08/11/test-post-edit2/</url>
-    <content><![CDATA[<h1 id="Testing-post-edit-again-…"><a href="#Testing-post-edit-again-…" class="headerlink" title="Testing post_edit again …"></a>Testing post_edit again …</h1><h1 id="Modified-…"><a href="#Modified-…" class="headerlink" title="Modified …"></a>Modified …</h1><h1 id="Modified-again-…"><a href="#Modified-again-…" class="headerlink" title="Modified again …"></a>Modified again …</h1><h1 id="Yet-another-modification-…"><a href="#Yet-another-modification-…" class="headerlink" title="Yet another modification …"></a>Yet another modification …</h1>]]></content>
-      <categories>
-        <category>testing</category>
-      </categories>
   </entry>
 </search>

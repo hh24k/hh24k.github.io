@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hh24k.github.io/"/>
-  <updated>2020-08-11T11:59:11.000Z</updated>
+  <updated>2020-08-11T12:23:03.819Z</updated>
   <id>https://hh24k.github.io/</id>
   
   <author>
@@ -17,20 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test post_edit2</title>
-    <link href="https://hh24k.github.io/2020/08/11/test-post-edit2/"/>
-    <id>https://hh24k.github.io/2020/08/11/test-post-edit2/</id>
-    <published>2020-08-11T11:59:11.000Z</published>
-    <updated>2020-08-11T11:59:11.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="Testing-post-edit-again-…"><a href="#Testing-post-edit-again-…" class="headerlink" title="Testing post_edit again …"></a>Testing post_edit again …</h1><h1 id="Modified-…"><a href="#Modified-…" class="headerlink" title="Modified …"></a>Modified …</h1><h1 id="Modified-again-…"><a href="#Modified-again-…" class="headerlink" title="Modified again …"></a>Modified again …</h1><h1 id="Yet-another-modification-…"><a href="#Yet-another-modification-…" class="headerlink" title="Yet another modification …"></a>Yet another modification …</h1>]]></content>
+    <title>test</title>
+    <link href="https://hh24k.github.io/2020/08/11/test/"/>
+    <id>https://hh24k.github.io/2020/08/11/test/</id>
+    <published>2020-08-11T01:28:00.000Z</published>
+    <updated>2020-08-11T12:23:03.819Z</updated>
     
     <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;Testing-post-edit-again-…&quot;&gt;&lt;a href=&quot;#Testing-post-edit-again-…&quot; class=&quot;headerlink&quot; title=&quot;Testing post_edit again …&quot;&gt;&lt;/a&gt;Testing pos
-      
     
     </summary>
     
@@ -38,27 +31,7 @@
       <category term="testing" scheme="https://hh24k.github.io/categories/testing/"/>
     
     
-  </entry>
-  
-  <entry>
-    <title>test post_edit</title>
-    <link href="https://hh24k.github.io/2020/08/11/test-post-edit/"/>
-    <id>https://hh24k.github.io/2020/08/11/test-post-edit/</id>
-    <published>2020-08-11T11:49:45.000Z</published>
-    <updated>2020-08-11T11:49:45.000Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="This-is-just-for-testing-per-post-edit-keyword-…"><a href="#This-is-just-for-testing-per-post-edit-keyword-…" class="headerlink" title="This is just for testing per post_edit keyword …"></a>This is just for testing per post_edit keyword …</h1>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;This-is-just-for-testing-per-post-edit-keyword-…&quot;&gt;&lt;a href=&quot;#This-is-just-for-testing-per-post-edit-keyword-…&quot; class=&quot;headerlink&quot; tit
-      
-    
-    </summary>
-    
-    
+      <category term="testing" scheme="https://hh24k.github.io/tags/testing/"/>
     
   </entry>
   
@@ -81,32 +54,6 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://hh24k.github.io/2020/08/10/test/"/>
-    <id>https://hh24k.github.io/2020/08/10/test/</id>
-    <published>2020-08-10T01:28:00.000Z</published>
-    <updated>2020-08-11T04:49:07.087Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="I-have-mamually-updated-the-publish-date-…"><a href="#I-have-mamually-updated-the-publish-date-…" class="headerlink" title="I have mamually updated the publish date …"></a>I have mamually updated the publish date …</h1><h1 id="testing-…"><a href="#testing-…" class="headerlink" title="testing …"></a>testing …</h1>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;I-have-mamually-updated-the-publish-date-…&quot;&gt;&lt;a href=&quot;#I-have-mamually-updated-the-publish-date-…&quot; class=&quot;headerlink&quot; title=&quot;I have m
-      
-    
-    </summary>
-    
-    
-      <category term="testing" scheme="https://hh24k.github.io/categories/testing/"/>
-    
-    
-      <category term="testing" scheme="https://hh24k.github.io/tags/testing/"/>
     
   </entry>
   

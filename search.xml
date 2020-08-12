@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Go install modules failed with &#39;timeout&#39;</title>
+    <url>/2020/08/13/Go-install-modules-failed-with-timeout/</url>
+    <content><![CDATA[<h1 id="问题："><a href="#问题：" class="headerlink" title="问题："></a>问题：</h1><ul>
+<li>在 VSCode 中安装Go的相关工具包失败，debug信息提示timeout</li>
+</ul>
+<h1 id="问题分析"><a href="#问题分析" class="headerlink" title="问题分析:"></a>问题分析:</h1><ul>
+<li>尝试多次仍然是timeout，大概率是网络问题；</li>
+<li>再考虑到其他语言例如Python，Nodejs在安装包时也有类似情况，往往需要设置代理才能顺利安装。</li>
+<li>Go作为一门成熟的开源语言，有强大社区支持 –&gt; 网上应该很容易搜到</li>
+</ul>
+<h1 id="解决"><a href="#解决" class="headerlink" title="解决:"></a>解决:</h1><ul>
+<li>Google <strong>‘Go install package proxy’</strong> –&gt; <span class="exturl" data-url="aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMTAzODMyOTkvaG93LWRvLWktY29uZmlndXJlLWdvLWNvbW1hbmQtdG8tdXNlLWEtcHJveHk=">How do I configure go command to use a proxy?<i class="fa fa-external-link-alt"></i></span><ul>
+<li>设置环境变量 http_proxy –&gt; 会影响到其他除go以外的命令</li>
+<li><strong>alias go=’http_proxy=<em>proxy_host</em>:<em>proxy_port</em> go’</strong> –&gt; 仅针对go –&gt; 在哪里设置? –&gt;（我用的mac系统，其他系统适当调整）为了一次设置，长期且在各种shell范围内都生效，我选则在profile中添加alias，具体到我的机器是在*/etc/profile*中修改。另外还需要给相应的SCM (<span class="exturl" data-url="aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9hLzM0MDY3NjYvMTY1Mjkz">Git<i class="fa fa-external-link-alt"></i></span>/<span class="exturl" data-url="aHR0cDovL3d3dy5zZWxlbmljLmNvbS9tZXJjdXJpYWwvaGdyYy41Lmh0bWwjaHR0cC1wcm94eQ==">Mercurial<i class="fa fa-external-link-alt"></i></span>) 设置proxy，设置成功后问题解决。</li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>问题诊断</category>
+      </categories>
+      <tags>
+        <tag>Go,问题诊断</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/08/10/hello-world/</url>
     <content><![CDATA[<p>Welcome to <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvLw==">Hexo<i class="fa fa-external-link-alt"></i></span>! This is your very first post. Check <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv">documentation<i class="fa fa-external-link-alt"></i></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=">troubleshooting<i class="fa fa-external-link-alt"></i></span> or you can ask me on <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==">GitHub<i class="fa fa-external-link-alt"></i></span>.</p>
